@@ -1,0 +1,9 @@
+body{
+        background-image: url('../img/background-login.jpg');
+		background-repeat:no-repeat;
+		background-size:100% 150%;
+    }
+input[type=text]{
+		background-color:transparent;
+
+}
